@@ -34,8 +34,11 @@
 
 ## 6. Hafta
 ### 03.06.2019 Pazartesi
+- Bayram tatili
 ### 04.06.2019 Salı
+- Bayram tatili
 ### 05.06.2019 Çarşamba
+- Bayram tatili
 
 ## 7. Hafta
 ### 10.06.2019 Pazartesi
@@ -51,4 +54,6 @@
 ### 24.06.2019 Pazartesi
 ### 25.06.2019 Salı
 ### 26.06.2019 Çarşamba
+
+
 
