@@ -33,6 +33,11 @@
 ### 22.05.2019 Çarşamba
 
 ## 6. Hafta
+### 27.05.2019 Pazartesi
+### 28.05.2019 Salı
+### 29.05.2019 Çarşamba
+
+## 7. Hafta
 ### 03.06.2019 Pazartesi
 - Bayram tatili
 ### 04.06.2019 Salı
@@ -40,17 +45,17 @@
 ### 05.06.2019 Çarşamba
 - Bayram tatili
 
-## 7. Hafta
+## 8. Hafta
 ### 10.06.2019 Pazartesi
 ### 11.06.2019 Salı
 ### 12.06.2019 Çarşamba
 
-## 8. Hafta
+## 9. Hafta
 ### 17.06.2019 Pazartesi
 ### 18.06.2019 Salı
 ### 19.06.2019 Çarşamba
 
-## 9. Hafta
+## 10. Hafta
 ### 24.06.2019 Pazartesi
 ### 25.06.2019 Salı
 ### 26.06.2019 Çarşamba
