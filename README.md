@@ -13,6 +13,7 @@
 
 ## 2. Hafta
 ### 29.04.2019 Pazartesi
+- Layout Kullanımı
 ### 30.04.2019 Salı
 ### 01.05.2019 Çarşamba
 - 1 Mayıs dolayısıyla ders işlenemeyecektir.
